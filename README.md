@@ -10,8 +10,7 @@ Contacts
 <a href="https://t.me/oleqqich">
   TELEGRAM
 </a>
-
-
+<br>
 <a href="https://ryazan.hh.ru/resume/ba629630ff0c0fd5470039ed1f5a70574b3654">
   HH.RU/PROFILE
 </a>
