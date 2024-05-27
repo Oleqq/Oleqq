@@ -16,16 +16,5 @@ Contacts
   HH.RU/PROFILE
 </a>
 
-<style>
-  a {
-    transition: .5s ease;
 
-    
-  }
-
-  a:hover {
-    transition: .5s ease;
-    color: red;
-  }
-</style>
 
