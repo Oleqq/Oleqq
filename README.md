@@ -1,4 +1,4 @@
-Greetings Traveller!
+Greetings!
 
 I'm Oleg
 <br>
