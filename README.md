@@ -23,7 +23,7 @@
 <td align="center" width="150"><b>3+ yrs</b><br/><sub>professional experience</sub></td>
 <td align="center" width="150"><b>30+</b><br/><sub>sites shipped</sub></td>
 <td align="center" width="150"><b>5</b><br/><sub>CMS / platforms</sub></td>
-<td align="center" width="150"><b>C1</b><br/><sub>English</sub></td>
+<td align="center" width="150"><b>B2.2</b><br/><sub>English</sub></td>
 <td align="center" width="150"><b>🌍 Open</b><br/><sub>to relocate</sub></td>
 </tr>
 </table>
