@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:22D3EE&height=230&section=header&text=Oleg%20Zagneev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Senior%20Full-Stack%20Developer%20%E2%80%94%20WordPress%20%C2%B7%20PHP%20%C2%B7%20CMS%20Architecture&descSize=17&descAlignY=54" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:22D3EE&height=230&section=header&text=Oleg%20Zagneev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=%20Full-Stack%20Developer%20%E2%80%94%20WordPress%20%C2%B7%20PHP%20%C2%B7%20CMS%20Architecture&descSize=17&descAlignY=54" width="100%"/>
 
 <a href="https://t.me/oleqqich">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;WordPress+%2B+PHP+%2B+Laravel+%2B+React;WooCommerce+%C2%B7+Shopify+%C2%B7+1C-Bitrix+%C2%B7+MODX;30%2B+production+sites+shipped+since+2022;Building+faster+with+AI+coding+agents;Open+to+Remote+%26+Relocation+%F0%9F%8C%8D" alt="Typing SVG" />
