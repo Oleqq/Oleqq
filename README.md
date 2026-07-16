@@ -44,7 +44,7 @@
 - 🧩 Custom app development: **Laravel + Inertia.js + React**
 - 🔭 Currently building internal tools and full-cycle WordPress sites with a GitHub Actions CI/CD pipeline
 - 🧑‍🤝‍🧑 Comfortable running 3–5 client projects in parallel — support, refactors, and full builds
-- 🗣️ Russian (native) · English (C1) · Kazakh (A2)
+- 🗣️ Russian (native) · English (B2.2) · Kazakh (A2)
 - 📬 Fastest way to reach me: **Telegram [@oleqqich](https://t.me/oleqqich)**
 
 <br/>
